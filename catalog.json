@@ -59,10 +59,10 @@
       "name": "Kova Sweets",
       "unitLabel": "500 g",
       "items": [
-        { "id": "sone-kalakanda", "cardNo": 33, "name": "Sone Kalakanda", "priceInr": 290, "unitType": "weight", "unitGrams": 500 },
-        { "id": "white-kalakanda", "cardNo": 34, "name": "White Kalakanda", "priceInr": 300, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kaju-kismis-kalakanda", "cardNo": 35, "name": "Kaju Kismis Kalakanda", "priceInr": 330, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kova-billalu-white", "cardNo": 36, "name": "Kova Billalu (White)", "priceInr": 310, "unitType": "weight", "unitGrams": 500 },
+        { "id": "sone-kalakanda", "cardNo": 33, "name": "Sone Kalakanda", "priceInr": 330, "unitType": "weight", "unitGrams": 500 },
+        { "id": "white-kalakanda", "cardNo": 34, "name": "White Kalakanda", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
+        { "id": "kaju-kismis-kalakanda", "cardNo": 35, "name": "Kaju Kismis Kalakanda", "priceInr": 380, "unitType": "weight", "unitGrams": 500 },
+        { "id": "kova-billalu-white", "cardNo": 36, "name": "Kova Billalu (White)", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
         { "id": "malai-laddu", "cardNo": 37, "name": "Malai Laddu", "priceInr": 440, "unitType": "weight", "unitGrams": 500 },
         { "id": "milk-mysorepak", "cardNo": 38, "name": "Milk Mysorepak", "priceInr": 320, "unitType": "weight", "unitGrams": 500 },
         { "id": "moti-pak", "cardNo": 39, "name": "Moti Pak", "priceInr": 260, "unitType": "weight", "unitGrams": 500 }
