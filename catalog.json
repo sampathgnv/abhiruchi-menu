@@ -1,231 +1,464 @@
 {
-  "dataVersion": 3,
-  "updatedOn": "2026-08-18",
-  "menuEffectiveFrom": "2026-08-18",
-  "catalogUrl": "https://sampathgnv.github.io/abhiruchi-menu/catalog.json",
+
+  "dataVersion": 4,
+
+  "updatedOn": "2026-08-25",
+
+  "menuEffectiveFrom": "2026-08-25",
+
+  "catalogUrl": "https://raw.githubusercontent.com/sampathgnv/abhiruchi-menu/refs/heads/main/catalog.json",
+
   "imagesEnabled": false,
-  "imageBaseUrl": "https://sampathgnv.github.io/abhiruchi-menu/images",
+
+  "menuImagesEnabled": false,
+
+  "imageBaseUrl": "https://raw.githubusercontent.com/sampathgnv/abhiruchi-menu/refs/heads/main/images",
+
   "maxUnitsPerItem": 10,
+
   "whatsappNumber": "919849603418",
+
   "sections": [
+
     {
+
       "id": "sweets",
+
       "name": "Sweets",
+
       "unitLabel": "500 g",
+
       "items": [
-        { "id": "jilebi", "cardNo": 1, "name": "Jilebi", "priceInr": 190, "unitType": "weight", "unitGrams": 500 },
-        { "id": "bellam-gavvalu", "cardNo": 2, "name": "Bellam Gavvalu", "priceInr": 180, "unitType": "weight", "unitGrams": 500 },
-        { "id": "gorumeeti", "cardNo": 3, "name": "Gorumeeti", "priceInr": 200, "unitType": "weight", "unitGrams": 500 },
-        { "id": "badhusha", "cardNo": 4, "name": "Badhusha", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "boondi-atchu", "cardNo": 5, "name": "Boondi Atchu", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kaja-tapeswaram", "cardNo": 6, "name": "Kaja (Tapeswaram)", "priceInr": 180, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kakinada-kaja", "cardNo": 7, "name": "Kakinada Kaja", "priceInr": 200, "unitType": "weight", "unitGrams": 500 },
-        { "id": "jangri", "cardNo": 8, "name": "Jangri", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
-        { "id": "ariselu-till", "cardNo": 9, "name": "Ariselu (Till)", "priceInr": 225, "unitType": "weight", "unitGrams": 500 },
-        { "id": "chandrakala", "cardNo": 10, "name": "Chandrakala", "priceInr": 260, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kajjikailu-bellam", "cardNo": 11, "name": "Kajjikailu (Bellam)", "priceInr": 320, "unitType": "weight", "unitGrams": 500 },
-        { "id": "ariselu", "cardNo": 12, "name": "Ariselu", "priceInr": 215, "unitType": "weight", "unitGrams": 500 },
-        { "id": "mysorepak", "cardNo": 13, "name": "Mysorepak", "priceInr": 180, "unitType": "weight", "unitGrams": 500 },
-        { "id": "bobbatlu", "cardNo": 14, "name": "Bobbatlu", "priceInr": 200, "unitType": "weight", "unitGrams": 500 },
-        { "id": "sunniundalu", "cardNo": 15, "name": "Sunniundalu", "priceInr": 265, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kova-kajjikailu", "cardNo": 16, "name": "Kova Kajjikailu", "priceInr": 265, "unitType": "weight", "unitGrams": 500 },
-        { "id": "pb-laddu", "cardNo": 17, "name": "P.B. Laddu", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "boorelu", "cardNo": 18, "name": "Boorelu", "priceInr": 190, "unitType": "weight", "unitGrams": 500 },
-        { "id": "bellam-besar-laddu", "cardNo": 19, "name": "Bellam Besar Laddu", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "chilakalu", "cardNo": 20, "name": "Chilakalu", "priceInr": 185, "unitType": "weight", "unitGrams": 500 }
+
+        { "id": "jilebi", "cardNo": 1, "name": "Jilebi", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "bellam-gavvalu", "cardNo": 2, "name": "Bellam Gavvalu", "priceInr": 200, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "gorumeeti", "cardNo": 3, "name": "Gorumeeti", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "badhusha", "cardNo": 4, "name": "Badhusha", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "boondi-atchu", "cardNo": 5, "name": "Boondi Atchu", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kaja-tapeswaram", "cardNo": 6, "name": "Kaja (Tapeswaram)", "priceInr": 200, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kakinada-kaja", "cardNo": 7, "name": "Kakinada Kaja", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "jangri", "cardNo": 8, "name": "Jangri", "priceInr": 230, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "ariselu-till", "cardNo": 9, "name": "Ariselu (Till)", "priceInr": 245, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "chandrakala", "cardNo": 10, "name": "Chandrakala", "priceInr": 280, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kajjikailu-bellam", "cardNo": 11, "name": "Kajjikailu (Bellam)", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "ariselu", "cardNo": 12, "name": "Ariselu", "priceInr": 235, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "mysorepak", "cardNo": 13, "name": "Mysorepak", "priceInr": 200, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "bobbatlu", "cardNo": 14, "name": "Bobbatlu", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "sunniundalu", "cardNo": 15, "name": "Sunniundalu", "priceInr": 285, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kova-kajjikailu", "cardNo": 16, "name": "Kova Kajjikailu", "priceInr": 285, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "pb-laddu", "cardNo": 17, "name": "P.B. Laddu", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "boorelu", "cardNo": 18, "name": "Boorelu", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "bellam-besar-laddu", "cardNo": 19, "name": "Bellam Besar Laddu", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "chilakalu", "cardNo": 20, "name": "Chilakalu", "priceInr": 205, "unitType": "weight", "unitGrams": 500 }
+
       ]
+
     },
+
     {
+
       "id": "special-sweets",
+
       "name": "Special Sweets",
+
       "unitLabel": "500 g",
+
       "items": [
-        { "id": "malai-puri", "cardNo": 21, "name": "Malai Puri", "priceInr": 360, "unitType": "weight", "unitGrams": 500 },
-        { "id": "special-halwa", "cardNo": 22, "name": "Special Halwa", "priceInr": 300, "unitType": "weight", "unitGrams": 500 },
-        { "id": "bombay-halwa", "cardNo": 23, "name": "Bombay Halwa", "priceInr": 270, "unitType": "weight", "unitGrams": 500 },
-        { "id": "cream-burfi", "cardNo": 24, "name": "Cream Burfi", "priceInr": 410, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kova-billalu-brown", "cardNo": 25, "name": "Kova Billalu (Brown)", "priceInr": 320, "unitType": "weight", "unitGrams": 500 },
-        { "id": "annamayya-laddu", "cardNo": 26, "name": "Annamayya Laddu", "priceInr": 320, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kaju-pakam", "cardNo": 27, "name": "Kaju Pakam", "priceInr": 650, "unitType": "weight", "unitGrams": 500 },
-        { "id": "bellam-pootha-rekulu", "cardNo": 28, "name": "Bellam Pootha Rekulu", "priceInr": 280, "unitType": "box", "piecesPerBox": 7 },
-        { "id": "kaju-pootha-rekulu", "cardNo": 29, "name": "Kaju Pootha Rekulu", "priceInr": 280, "unitType": "box", "piecesPerBox": 7 },
-        { "id": "kaju-kathili", "cardNo": 30, "name": "Kaju Kathili", "priceInr": 670, "unitType": "weight", "unitGrams": 500 },
-        { "id": "dryfruit-halwa", "cardNo": 31, "name": "Dryfruit Halwa", "priceInr": 320, "unitType": "weight", "unitGrams": 500 },
-        { "id": "dryfruit-laddu", "cardNo": 32, "name": "Dryfruit Laddu", "priceInr": 360, "unitType": "weight", "unitGrams": 500 }
+
+        { "id": "malai-puri", "cardNo": 21, "name": "Malai Puri", "priceInr": 380, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "special-halwa", "cardNo": 22, "name": "Special Halwa", "priceInr": 320, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "bombay-halwa", "cardNo": 23, "name": "Bombay Halwa", "priceInr": 290, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "cream-burfi", "cardNo": 24, "name": "Cream Burfi", "priceInr": 430, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kova-billalu-brown", "cardNo": 25, "name": "Kova Billalu (Brown)", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "annamayya-laddu", "cardNo": 26, "name": "Annamayya Laddu", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kaju-pakam", "cardNo": 27, "name": "Kaju Pakam", "priceInr": 670, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "bellam-pootha-rekulu", "cardNo": 28, "name": "Bellam Pootha Rekulu", "priceInr": 300, "unitType": "box", "piecesPerBox": 7 },
+
+        { "id": "kaju-pootha-rekulu", "cardNo": 29, "name": "Kaju Pootha Rekulu", "priceInr": 300, "unitType": "box", "piecesPerBox": 7 },
+
+        { "id": "kaju-kathili", "cardNo": 30, "name": "Kaju Kathili", "priceInr": 690, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "dryfruit-halwa", "cardNo": 31, "name": "Dryfruit Halwa", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "dryfruit-laddu", "cardNo": 32, "name": "Dryfruit Laddu", "priceInr": 380, "unitType": "weight", "unitGrams": 500 }
+
       ]
+
     },
+
     {
+
       "id": "kova-sweets",
+
       "name": "Kova Sweets",
+
       "unitLabel": "500 g",
+
       "items": [
-        { "id": "sone-kalakanda", "cardNo": 33, "name": "Sone Kalakanda", "priceInr": 330, "unitType": "weight", "unitGrams": 500 },
-        { "id": "white-kalakanda", "cardNo": 34, "name": "White Kalakanda", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kaju-kismis-kalakanda", "cardNo": 35, "name": "Kaju Kismis Kalakanda", "priceInr": 380, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kova-billalu-white", "cardNo": 36, "name": "Kova Billalu (White)", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
-        { "id": "malai-laddu", "cardNo": 37, "name": "Malai Laddu", "priceInr": 440, "unitType": "weight", "unitGrams": 500 },
-        { "id": "milk-mysorepak", "cardNo": 38, "name": "Milk Mysorepak", "priceInr": 320, "unitType": "weight", "unitGrams": 500 },
-        { "id": "moti-pak", "cardNo": 39, "name": "Moti Pak", "priceInr": 260, "unitType": "weight", "unitGrams": 500 }
+
+        { "id": "sone-kalakanda", "cardNo": 33, "name": "Sone Kalakanda", "priceInr": 350, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "white-kalakanda", "cardNo": 34, "name": "White Kalakanda", "priceInr": 360, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kaju-kismis-kalakanda", "cardNo": 35, "name": "Kaju Kismis Kalakanda", "priceInr": 400, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kova-billalu-white", "cardNo": 36, "name": "Kova Billalu (White)", "priceInr": 360, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "malai-laddu", "cardNo": 37, "name": "Malai Laddu", "priceInr": 460, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "milk-mysorepak", "cardNo": 38, "name": "Milk Mysorepak", "priceInr": 340, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "moti-pak", "cardNo": 39, "name": "Moti Pak", "priceInr": 280, "unitType": "weight", "unitGrams": 500 }
+
       ]
+
     },
+
     {
+
       "id": "bengali-sweets",
+
       "name": "Bengali Sweets",
+
       "unitLabel": "500 g",
+
       "items": [
-        { "id": "rasakandam", "cardNo": 40, "name": "Rasakandam", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "angoor", "cardNo": 41, "name": "Angoor", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "malai-sandwich", "cardNo": 42, "name": "Malai Sandwich", "priceInr": 260, "unitType": "weight", "unitGrams": 500 },
-        { "id": "honey-dew", "cardNo": 43, "name": "Honey Dew", "priceInr": 260, "unitType": "weight", "unitGrams": 500 },
-        { "id": "gulabjam", "cardNo": 44, "name": "Gulabjam", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kalajam", "cardNo": 45, "name": "Kalajam", "priceInr": 260, "unitType": "weight", "unitGrams": 500 },
-        { "id": "rasamalai", "cardNo": 46, "name": "Rasamalai", "priceInr": 145, "unitType": "box", "piecesPerBox": 3 },
-        { "id": "malai-chem-chem", "cardNo": 47, "name": "Malai Chem Chem", "priceInr": 280, "unitType": "weight", "unitGrams": 500 }
+
+        { "id": "rasakandam", "cardNo": 40, "name": "Rasakandam", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "angoor", "cardNo": 41, "name": "Angoor", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "malai-sandwich", "cardNo": 42, "name": "Malai Sandwich", "priceInr": 280, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "honey-dew", "cardNo": 43, "name": "Honey Dew", "priceInr": 280, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "gulabjam", "cardNo": 44, "name": "Gulabjam", "priceInr": 260, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kalajam", "cardNo": 45, "name": "Kalajam", "priceInr": 280, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "rasamalai", "cardNo": 46, "name": "Rasamalai", "priceInr": 165, "unitType": "box", "piecesPerBox": 3 },
+
+        { "id": "malai-chem-chem", "cardNo": 47, "name": "Malai Chem Chem", "priceInr": 300, "unitType": "weight", "unitGrams": 500 }
+
       ]
+
     },
+
     {
+
       "id": "hots",
+
       "name": "Hots",
+
       "unitLabel": "500 g",
+
       "items": [
-        { "id": "karapoosa", "cardNo": 48, "name": "Karapoosa", "priceInr": 190, "unitType": "weight", "unitGrams": 500 },
-        { "id": "karaboondi", "cardNo": 49, "name": "Karaboondi", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
-        { "id": "karapu-kaja", "cardNo": 50, "name": "Karapu Kaja", "priceInr": 190, "unitType": "weight", "unitGrams": 500 },
-        { "id": "vamu-poosa", "cardNo": 51, "name": "Vamu Poosa", "priceInr": 190, "unitType": "weight", "unitGrams": 500 },
-        { "id": "janthikalu", "cardNo": 52, "name": "Janthikalu", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "ground-nut-pakodi", "cardNo": 53, "name": "Ground Nut Pakodi", "priceInr": 270, "unitType": "weight", "unitGrams": 500 },
-        { "id": "ribbon-pakodi", "cardNo": 54, "name": "Ribbon Pakodi", "priceInr": 190, "unitType": "weight", "unitGrams": 500 },
-        { "id": "chekkalu", "cardNo": 55, "name": "Chekkalu", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "chekodi", "cardNo": 56, "name": "Chekodi", "priceInr": 200, "unitType": "weight", "unitGrams": 500, "variants": ["Small", "Big"] },
-        { "id": "dalmoth-mixer", "cardNo": 57, "name": "Dalmoth Mixer", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kaju-mixer", "cardNo": 58, "name": "Kaju Mixer", "priceInr": 230, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kaju-pakodi", "cardNo": 59, "name": "Kaju Pakodi", "priceInr": 490, "unitType": "weight", "unitGrams": 500 },
-        { "id": "kaju-fry", "cardNo": 60, "name": "Kaju Fry", "priceInr": 740, "unitType": "weight", "unitGrams": 500 },
-        { "id": "murukilu", "cardNo": 61, "name": "Murukilu", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
-        { "id": "spl-mixer", "cardNo": 62, "name": "Spl Mixer", "priceInr": 230, "unitType": "weight", "unitGrams": 500 },
-        { "id": "alu-mixer", "cardNo": 63, "name": "Alu Mixer", "priceInr": 220, "unitType": "weight", "unitGrams": 500 },
-        { "id": "cornflex-mixer", "cardNo": 64, "name": "Cornflex Mixer", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
-        { "id": "atukula-mixer", "cardNo": 65, "name": "Atukula Mixer", "priceInr": 180, "unitType": "weight", "unitGrams": 500 }
+
+        { "id": "karapoosa", "cardNo": 48, "name": "Karapoosa", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "karaboondi", "cardNo": 49, "name": "Karaboondi", "priceInr": 230, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "karapu-kaja", "cardNo": 50, "name": "Karapu Kaja", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "vamu-poosa", "cardNo": 51, "name": "Vamu Poosa", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "janthikalu", "cardNo": 52, "name": "Janthikalu", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "ground-nut-pakodi", "cardNo": 53, "name": "Ground Nut Pakodi", "priceInr": 290, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "ribbon-pakodi", "cardNo": 54, "name": "Ribbon Pakodi", "priceInr": 210, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "chekkalu", "cardNo": 55, "name": "Chekkalu", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "chekodi", "cardNo": 56, "name": "Chekodi", "priceInr": 220, "unitType": "weight", "unitGrams": 500, "variants": ["Small", "Big"] },
+
+        { "id": "dalmoth-mixer", "cardNo": 57, "name": "Dalmoth Mixer", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kaju-mixer", "cardNo": 58, "name": "Kaju Mixer", "priceInr": 250, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kaju-pakodi", "cardNo": 59, "name": "Kaju Pakodi", "priceInr": 510, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "kaju-fry", "cardNo": 60, "name": "Kaju Fry", "priceInr": 760, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "murukilu", "cardNo": 61, "name": "Murukilu", "priceInr": 230, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "spl-mixer", "cardNo": 62, "name": "Spl Mixer", "priceInr": 250, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "alu-mixer", "cardNo": 63, "name": "Alu Mixer", "priceInr": 240, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "cornflex-mixer", "cardNo": 64, "name": "Cornflex Mixer", "priceInr": 230, "unitType": "weight", "unitGrams": 500 },
+
+        { "id": "atukula-mixer", "cardNo": 65, "name": "Atukula Mixer", "priceInr": 200, "unitType": "weight", "unitGrams": 500 }
+
       ]
+
     }
+
   ],
+
   "stores": [
+
     {
+
       "id": "dwarakanagar",
+
       "name": "Dwarakanagar",
+
       "isMain": true,
+
       "addressLines": [
+
         "Shop No. 10, Sai Shopping Center",
+
         "Dwarakanagar, Visakhapatnam 530016"
+
       ],
+
       "phone": "+918912766092",
+
       "phoneDisplay": "+91 891 276 6092",
+
       "mapsUrl": "https://goo.gl/maps/CZF3YztBvbjtERda8",
+
       "deliveryPartners": [
+
         {
+
           "name": "Swiggy",
+
           "url": "https://www.swiggy.com/restaurants/sree-bhaktanjaneya-abhiruchi-sweets-dwaraka-nagar-dwarka-nagar-vizag-66732"
+
         }
+
       ]
+
     },
+
     {
+
       "id": "muralinagar",
+
       "name": "Muralinagar",
+
       "isMain": false,
+
       "addressLines": [
+
         "39-12-17, Muralinagar",
+
         "Madhavadhara, Visakhapatnam 530007"
+
       ],
+
       "phone": "+918912766094",
+
       "phoneDisplay": "+91 891 276 6094",
+
       "mapsUrl": "https://maps.app.goo.gl/jtc5rQYGKiuGkovJ6",
+
       "deliveryPartners": [
+
         {
+
           "name": "Zomato",
+
           "url": "https://www.zomato.com/visakhapatnam/sri-bhaktanjaneya-abiruchi-madhavadhara-vizag/order"
+
         }
+
       ]
+
     },
+
     {
+
       "id": "dabagardens",
+
       "name": "Dabagardens",
+
       "isMain": false,
+
       "addressLines": [
+
         "30-13-5, Madhava Street",
+
         "Dabagardens, Visakhapatnam 530020"
+
       ],
+
       "phone": "+918912766095",
+
       "phoneDisplay": "+91 891 276 6095",
+
       "mapsUrl": "https://goo.gl/maps/tmjxZALNAxXqNJSP6",
+
       "deliveryPartners": []
+
     }
+
   ],
+
   "highlights": [
+
     {
+
       "id": "kaja",
+
       "name": "Kaja",
+
       "itemId": "kakinada-kaja",
+
       "description": "Made using refined wheat flour, sugar syrup (paakam), and edible oils, our Kaja is one of the finest customers can find in and around Visakhapatnam."
+
     },
+
     {
+
       "id": "bobbatlu",
+
       "name": "Bobbatlu",
+
       "itemId": "bobbatlu",
+
       "description": "Puran Poli, popularly called \"Bobbattu\", is one of the famous sweets found in Coastal Andhra Pradesh, majorly served during festivals and special occasions. Our Bobbattu stands as one of the finest sweets that we offer in our stores."
+
     },
+
     {
+
       "id": "ariselu",
+
       "name": "Ariselu",
+
       "itemId": "ariselu",
+
       "description": "A primary home food during the festival of Sankranti in Andhra Pradesh, our Ariselu are ordered by many of our clients during the festival season, who adore its suavity."
+
     },
+
     {
+
       "id": "kova-billalu",
+
       "name": "Kova Billalu (White)",
+
       "itemId": "kova-billalu-white",
+
       "description": "Popularly known as Khoa in North India, Kova is a dairy product sold in many forms. Our stores have Kova in various forms like Pedha (billalu), Barfi and Halwa."
+
     },
+
     {
+
       "id": "jangri",
+
       "name": "Jangri",
+
       "itemId": "jangri",
+
       "description": "Saffron coloured Jangri, made from Jangri Black Gram found in the Indian subcontinent, is available in our stores all round the year."
+
     },
+
     {
+
       "id": "chekkalu",
+
       "name": "Chekkalu",
+
       "itemId": "chekkalu",
+
       "description": "Rice Crackers (Chekkalu) are one of the most sought after home foods during the festival of Makara Sankranti. They are sought out by our clients primarily during the festival season, and all round the year too."
+
     }
+
   ],
+
   "testimonials": [
+
     {
+
       "quote": "This shop is famous for bobattulu by most of the telugu community with reasonable prices",
+
       "author": "Aswin Kandula"
+
     },
+
     {
+
       "quote": "Abiruchi .... Awesome varieties of sweets and hots ... With different taste and touch",
+
       "author": "Venkata Sai Kiran"
+
     },
+
     {
+
       "quote": "Chitti kaja is very nice",
+
       "author": "Nikhileshwar Gubba"
+
     }
+
   ],
+
   "business": {
+
     "name": "Sree Bhaktanjaneya Abhiruchi Sweets",
+
     "shippingNotice": "Domestic and International shipping available. Contact us to know more.",
+
     "tagline": "Leading chain of sweets and confectionery outlets in Visakhapatnam, Andhra Pradesh.",
+
     "ownerName": "Sambasiva Rao Guttikonda",
+
     "ownerPhone": "+919849603418",
+
     "ownerPhoneDisplay": "+91 98496 03418",
+
     "email": "abhiruchisweets9@gmail.com",
+
     "website": "https://www.abhiruchisweets.in/",
+
     "hours": "9:00 am – 9:00 pm, daily",
+
     "hoursNote": "Hours might differ on government holidays and festivals.",
+
     "social": [
+
       { "name": "Facebook", "url": "https://www.facebook.com/abhiruchisweets9/" },
+
       { "name": "Linktree", "url": "https://linktr.ee/AbhiruchiSweets" }
+
     ]
+
   }
+
 }
+
